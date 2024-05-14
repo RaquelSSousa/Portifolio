@@ -20,7 +20,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("../img/bg.jpg") top right no-repeat;
+  background: #040404 url("../img/fptp-site.png") top right no-repeat;
   background-size: cover;
   left: 0;
   right: 0;
@@ -362,6 +362,7 @@ section.section-show {
 section .container {
   background: rgba(0, 0, 0, 0.9);
   padding: 30px;
+  padding-bottom: 0px;
 }
 
 @media (max-width: 768px) {
@@ -375,7 +376,7 @@ section .container {
 }
 
 .section-title h2 {
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 500;
   padding: 0;
   line-height: 1px;
@@ -497,6 +498,7 @@ section .container {
   margin: 0;
   text-transform: uppercase;
   display: block;
+  font-size: 14px;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
   color: #fff;
@@ -516,6 +518,16 @@ section .container {
   height: 10px;
   transition: 0.9s;
   background-color: #18d26e;
+}
+
+.skills .section-title > p {
+  text-transform:none ;
+  text-align: justify; 
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  font-family: "Open Sans", sans-serif;
+  color: #aaaaaa;
 }
 
 /*--------------------------------------------------------------
