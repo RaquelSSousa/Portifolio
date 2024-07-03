@@ -58,10 +58,6 @@ h6 {
 # Header
 --------------------------------------------------------------*/
 
-.container {
-  padding: 5px;
-}
-
 #header {
   transition: ease-in-out 0.3s;
   position: relative;
@@ -146,11 +142,11 @@ h6 {
   }
   
   #header h1 {
-    font-size: 36px;
+    font-size: 38px;
   }
 
   #header h2 {
-    font-size: 24px;
+    font-size: 20px;
     padding: 10px;
     margin: 10px;
     line-height: 1.7em;   
@@ -210,18 +206,6 @@ h6 {
   #header.header-top h1 {
     font-size: 26px;
   }
-
-  #header h2 {
-    width: 350px;
-    font-size: 24px;
-    padding: 10px;
-    margin: 10px;
-    line-height: 1.7em;
-  }
-
-  .container {
-    padding: 5px;
-  }
   
 }
 
@@ -233,7 +217,7 @@ h6 {
 */
 .navbar {
   padding-left: 10px;
-  margin-top: 30px;
+  margin-top: 40px;
   border-radius: 7px;
   width: 350px;
   background: rgba(27, 27, 27, 0.707);
@@ -321,8 +305,8 @@ h6 {
 }
 
 @media (max-width: 991px) {
-  .navbar{
-    background-color: #04040400;
+  .navbar {
+    background-color: rgba(98, 98, 98, 0);
   }
 
   .mobile-nav-toggle {
@@ -404,7 +388,7 @@ section.section-show {
 section .container {
   background: rgba(0, 0, 0, 0.9);
   padding: 30px;
-  padding-bottom: 0px;
+  padding-bottom: 30px;
 }
 
 @media (max-width: 768px) {
@@ -636,6 +620,7 @@ section .container {
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
+
 #contact .container > .section-title > p {
   text-transform:none ;
   text-align: justify; 
