@@ -104,7 +104,7 @@ h6 {
   font-weight: 600;
   padding-top: 10px;
   padding-left: 10px;
-  margin-top: 15px;
+  margin-top: 10px;
   color: rgba(255, 255, 255, 0.8);;
 }
 
@@ -161,12 +161,14 @@ h6 {
   }
 
   #header h2 {
-    font-size: 20px;
-    line-height: 30px;
+    font-size: 24px;
+    padding: 10px;
+    margin: 10px;
+    line-height: 1.7em;   
   }
 
   #header .social-links {
-    margin-top: 15px;
+    margin-top: 10px;
   }
 
   #header .container {
@@ -174,6 +176,14 @@ h6 {
     flex-direction: column;
     align-items: center;
   }
+
+  #container-background {
+    width: 380px;
+    height: 137px;
+    background: rgba(27, 27, 27, 0.707);
+    border-radius: 10px;
+  }
+  
 }
 
 /* Header Top */
@@ -217,6 +227,24 @@ h6 {
 
   #header.header-top h1 {
     font-size: 26px;
+  }
+
+  #header h2 {
+    font-size: 24px;
+    padding: 10px;
+    margin: 10px;
+    line-height: 1.7em;
+  }
+
+  .container {
+    padding: 5px;
+  }
+  
+  #container-background {
+    width: 380px;
+    height: 137px;
+    background: rgba(27, 27, 27, 0.707);
+    border-radius: 10px;
   }
 }
 
