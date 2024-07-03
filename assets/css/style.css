@@ -201,7 +201,7 @@ h6 {
 
 @media (max-width: 768px) {
   #header.header-top {
-    height: 30px;
+    height: 60px;
   }
 
   #header.header-top h1 {
@@ -308,6 +308,7 @@ h6 {
 @media (max-width: 991px) {
   .navbar {
     background-color: rgba(98, 98, 98, 0);
+    padding-bottom: 0px;
   }
 
   .mobile-nav-toggle {
@@ -389,7 +390,6 @@ section.section-show {
 section .container {
   background: rgba(0, 0, 0, 0.9);
   padding: 30px;
-  padding-bottom: 30px;
 }
 
 @media (max-width: 768px) {
