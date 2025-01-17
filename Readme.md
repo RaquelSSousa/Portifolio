@@ -1,4 +1,4 @@
-<h1 align="center"># Raquel S. Sousa - Portfólio</h1>
+<h1 align="center">Raquel S. Sousa - Portifólio</h1>
 
 ### Welcome to my portfolio repository! This is a personal website that showcases my resume, professional background, skills, and projects.
 
