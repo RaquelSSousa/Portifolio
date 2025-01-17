@@ -5,7 +5,6 @@
 ### Description
 
 <p>This portfolio is designed to provide a comprehensive overview of my work and achievements. It includes my current data, works made, and a detailed resume.</p>
-<a href = "https://raquelssousa.github.io/Portifolio/">My Site</a>
 
 ### License
 
