@@ -1,28 +1,24 @@
-# Portifólio
+<h1 align="center"># Raquel S. Sousa - Portfólio</h1>
 
-This is my resume portfolio, showcasing all my current data and works made.
+### Welcome to my portfolio repository! This is a personal website that showcases my resume, professional background, skills, and projects.
 
-## Description
+### Description
 
-This portfolio is a personal website that contains my resume, including my professional background, skills, and projects. It is designed to provide a comprehensive overview of my work and achievements.
+<p>This portfolio is designed to provide a comprehensive overview of my work and achievements. It includes my current data, works made, and a detailed resume.</p>
 
-## Installation
+### License
 
-No installation required. This repository contains the code for my resume site, which can be viewed directly.
+<p>This project uses the "Personal" template from BootstrapMade.com</p>
 
-## Usage
+<p>- **Template Name**: Personal</p>
+<p>- **Template URL**: [https://bootstrapmade.com/personal-free-resume-bootstrap-template/](https://bootstrapmade.com/personal-free-resume-bootstrap-template/)</p>
+<p>- **Author**: BootstrapMade.com</p>
+<p>- **License**: [https://bootstrapmade.com/license/](https://bootstrapmade.com/license/)</p>
 
-Simply open the site to view my resume and portfolio.
+### Contact
 
-## License
+<p>For any questions or feedback, you can reach me through the contact information provided on the site.</p>
 
-This project uses the "Personal" template from BootstrapMade.com.
+---
 
-- **Template Name**: Personal
-- **Template URL**: [https://bootstrapmade.com/personal-free-resume-bootstrap-template/](https://bootstrapmade.com/personal-free-resume-bootstrap-template/)
-- **Author**: BootstrapMade.com
-- **License**: [https://bootstrapmade.com/license/](https://bootstrapmade.com/license/)
-
-## Contact
-
-For any questions or feedback, you can reach me through the contact information provided on the site.
+### Thank you for visiting my portfolio!
